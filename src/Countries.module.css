@@ -3,9 +3,11 @@
     align-items: center;
     flex-wrap: wrap;
     justify-content: center;
+    gap: 16px;
 }
 .CountryFlag{
     padding: 16px;
     border: 1px solid #c5c5c5;
     border-radius: 8px;
+    width: 120px;
 }
